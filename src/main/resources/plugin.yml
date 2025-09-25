@@ -1,10 +1,4 @@
-name: ChillysonSmp
-version: 1.0.0
-main: com.chillyson.smp.ChillysonSmp
-api-version: 1.21
-description: Custom SMP plugin inspired by Infuse SMP mechanics
-author: You
 commands:
-  chillyson:
-    description: Main command for ChillysonSmp
-    usage: /<command>
+  infuse:
+    description: Choose your infuse power
+    usage: /infuse <fire|water|earth|air|reset>
